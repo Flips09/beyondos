@@ -5,7 +5,7 @@
 name: beyondos
 description: BeyondOS Gaming Edition - Fedora Atomic KDE Plasma
 base-image: ghcr.io/ublue-os/kinoite-main
-image-version: stable
+image-version: latest
 
 platforms:
   - linux/amd64
