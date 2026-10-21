@@ -1,0 +1,9 @@
+[General]
+ColorScheme=BeyondOS
+Name=BeyondOS
+
+[Icons]
+Theme=breeze
+
+[KDE]
+LookAndFeelPackage=org.kde.breeze.desktop

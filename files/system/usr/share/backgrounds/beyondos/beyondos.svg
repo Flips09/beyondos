@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050807"/><stop offset=".55" stop-color="#101715"/><stop offset="1" stop-color="#080b0a"/></linearGradient>
+ <linearGradient id="beam"><stop stop-color="#48e52b" stop-opacity="0"/><stop offset=".55" stop-color="#48e52b" stop-opacity=".65"/><stop offset="1" stop-color="#ff8126" stop-opacity=".8"/></linearGradient>
+ <pattern id="grid" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M100 0H0V100" fill="none" stroke="#7bf45c" stroke-opacity=".08" stroke-width="2"/></pattern>
+</defs>
+<rect width="3840" height="2160" fill="url(#bg)"/><rect width="3840" height="2160" fill="url(#grid)"/>
+<path d="M1700 2160 2920 0h180L1880 2160Z" fill="url(#beam)" opacity=".35"/>
+<path d="M2200 2160 3400 0h28L2228 2160Z" fill="#ff8126" opacity=".42"/>
+<path d="M0 1750 1100 1550 1800 2160H0Z" fill="#0c1a10"/><path d="M0 1870 1150 1640 1700 2160H0Z" fill="#48e52b" opacity=".12"/>
+<g fill="none" stroke="#4ee52f" stroke-opacity=".62" stroke-width="5"><path d="M2450 280h520l100 100v180"/><path d="M2630 450h440l80 80v240"/><path d="M2880 930h420l110 110v300"/><path d="M2250 1370h340l110-110h220"/></g>
+<g fill="#ff8126"><circle cx="3090" cy="560" r="10"/><circle cx="3310" cy="1040" r="10"/><circle cx="2700" cy="1370" r="10"/></g>
+<g font-family="DejaVu Sans,sans-serif" font-weight="700"><text x="260" y="880" fill="#eaf4e8" font-size="176" letter-spacing="8">BEYOND</text><text x="260" y="1080" fill="#48e52b" font-size="220" letter-spacing="14">OS</text><rect x="270" y="1150" width="470" height="10" rx="5" fill="#ff8126"/><text x="270" y="1235" fill="#9baaa0" font-size="42" letter-spacing="12">GAMING EDITION</text><text x="270" y="1335" fill="#69796e" font-size="28" letter-spacing="6">FEDORA ATOMIC • KDE PLASMA</text></g>
+</svg>

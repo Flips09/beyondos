@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=BeyondOS first-login appearance
+Comment=Apply BeyondOS colors and wallpaper
+Exec=/usr/libexec/beyondos/apply-defaults.sh
+Terminal=false
