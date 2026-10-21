@@ -1,0 +1,15 @@
+{
+  "KPlugin": {
+    "Id": "beyondos",
+    "Name": "BeyondOS",
+    "Description": "BeyondOS Gaming Edition wallpaper",
+    "Authors": [
+      {
+        "Name": "BeyondOS Team"
+      }
+    ],
+    "License": "CC-BY-SA-4.0",
+    "Version": "1.0"
+  },
+  "KPackageStructure": "Wallpaper/Images"
+}
