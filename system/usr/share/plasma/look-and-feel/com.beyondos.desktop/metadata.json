@@ -1,0 +1,17 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "BeyondOS Team"
+      }
+    ],
+    "Category": "Plasma Look And Feel",
+    "Description": "BeyondOS Gaming Edition theme",
+    "EnabledByDefault": true,
+    "Id": "com.beyondos.desktop",
+    "License": "GPL-3.0-or-later",
+    "Name": "BeyondOS",
+    "Version": "1.0"
+  }
+}
