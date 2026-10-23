@@ -17,7 +17,7 @@ if command -v plasma-apply-colorscheme >/dev/null 2>&1; then
 fi
 
 if command -v plasma-apply-wallpaperimage >/dev/null 2>&1; then
-    plasma-apply-wallpaperimage /usr/share/backgrounds/beyondos/beyondos.svg || true
+    plasma-apply-wallpaperimage /usr/share/backgrounds/beyondos/beyondos-wallpaper.png || true
 fi
 
 touch "$marker"
