@@ -1,0 +1,11 @@
+NAME="BeyondOS"
+PRETTY_NAME="BeyondOS Gaming"
+ID=beyondos
+ID_LIKE="fedora"
+VERSION="1.0"
+VERSION_ID="1.0"
+VARIANT="Gaming Edition"
+VARIANT_ID=gaming
+HOME_URL="https://github.com/Flips09/beyondos"
+SUPPORT_URL="https://github.com/Flips09/beyondos/issues"
+BUG_REPORT_URL="https://github.com/Flips09/beyondos/issues"
