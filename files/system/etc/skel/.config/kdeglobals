@@ -3,7 +3,7 @@ ColorScheme=BeyondOS
 Name=BeyondOS
 
 [Icons]
-Theme=breeze
+Theme=Hatter-kde
 
 [KDE]
 LookAndFeelPackage=org.kde.breeze.desktop
